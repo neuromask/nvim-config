@@ -9,9 +9,9 @@ If you are opening a lua file or another file I have language servers configured
 **Catppuccin Mocha** - https://github.com/catppuccin/nvim  
 Plugin: lua/nmask/plugins/colorscheme.lua
 
-### Relevant Files
+### Where to place
 
-- [.config/nvim](.config/nvim)
+.config/nvim
 
 ### Setup Requires
 
