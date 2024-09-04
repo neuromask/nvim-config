@@ -6,7 +6,7 @@ If you are opening a lua file or another file I have language servers configured
 
 ### Theme
 
-**Catppuccin Mocha** - https://github.com/catppuccin/nvim
+**Catppuccin Mocha** - https://github.com/catppuccin/nvim  
 Plugin: lua/nmask/plugins/colorscheme.lua
 
 ### Relevant Files
